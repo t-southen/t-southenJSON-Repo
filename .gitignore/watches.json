@@ -13,7 +13,7 @@
 {
     "ProductId": "ABCDEF000001",
     "ProductName": "Bulova Accutron Astronaut",
-    "GraphicName": "AccutronAstronauts.jpg",
+    "GraphicName": "AccutronAstro.jpg",
     "CostPrice": 650.00,
     "MSRP": 1295.00,
     "QtyOnHand": 1,
@@ -46,7 +46,7 @@
 {
     "ProductId": "ABCDEF000004",
     "ProductName": "Bulova Accutron Railroad",
-    "GraphicName": "RailroadAccutrons.jpg",
+    "GraphicName": "RailAccutrons.jpg",
     "CostPrice": 499.99,
     "MSRP": 795.00,
     "QtyOnHand": 1,
@@ -62,13 +62,13 @@
     "MSRP": 2950.00,
     "QtyOnHand": 1,
     "QtyOnBackOrder": 0,
-    "Description": "This is a vintage circa 1957 HAMILTON ELECTRIC VAN HORN is solid 14k. yellow gold and is the most preserved and complete package we’ve ever seen! The 34.5mm. gold case exhibits spectacular overall (scratchless) condition. The original silver dial retains the original Dauphine, pitched hands and sweep seconds. This watch includes the original very FIRST version (rare) Hamilton Electric box including the outer cardboard, tissue and all gurantee and inserts. The rare original HAMILTON (unused) band and solid 14k. gold valuable buckle are also included.",
+    "Description": "This is a vintage circa 1957 HAMILTON ELECTRIC VAN HORN is solid 14k. yellow gold and is the most preserved and complete package we’ve ever seen! The 34.5mm. gold case exhibits spectacular overall (scratchless) condition. The original silver dial retains the original Dauphine, pitched hands and sweep seconds. This watch includes the original very FIRST version (rare) Hamilton Electric box including the outer cardboard, tissue and all gurantee and inserts. The rare original HAMILTON (unused) band and solid 14k. gold valuable buckle are also included. This watch has been fully serviced by Rene Rondeau recently and is accurately keeping time. This watch was named after the father of the Hamilton Electric-Dr. John Van Horn who was the director of research and development for the Hamilton watch company. This HAMILTON ELECTRIC watch provides much wrist coverage and is really quite striking. A very rare package for $2950.",
     "Brand": "Hamilton"
 },
 {
     "ProductId": "ABCDEF000006",
     "ProductName": "Hamilton Electric Van Horn silver diamond dial",
-    "GraphicName": "HamElectricVanHorns.jpg",
+    "GraphicName": "HamElecVanHorns.jpg",
     "CostPrice": 1299.99,
     "MSRP": 2495.00,
     "QtyOnHand": 1,
